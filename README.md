@@ -3,7 +3,7 @@
 
 
 
-**This Progress Bar Is The Default Qb-Core Progressbar And You Have To Just Rename The File From Mike-progressbar-main To Just progressbar to just make it work properly... Have Fun**  
+**This Progress Bar Is The Default Qb-Core Progressbar And You Have To Just Rename The File From Progressbar-Qb-Core-main To Just progressbar to just make it work properly... Have Fun**  
 
 
 Thank You.......Credits- @https://github.com/qbcore-framework
