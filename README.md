@@ -18,7 +18,7 @@ Thank You.......Credits- @https://github.com/qbcore-framework
 
 _Steps To Follow_
 
-_1.Open The Zip folder U downloaded
+_1.Open The Zip folder You downloaded_
 
 2.Extract It And Open The Inside Folder and Rename Mike-progressbar-main To progressbar_
 
