@@ -6,15 +6,15 @@ Thank You.......Credits- @https://github.com/qbcore-framework
 
 
 
-__Steps To Follow
+__Steps To Follow__
 
-__1.Rename Mike-progressbar-main To progressbar
+__1.Rename Mike-progressbar-main To progressbar__
 
-__2.load it in your resources>standalone or just replace it
+__2.load it in your resources>standalone or just replace it__
 
-__3.Load Your Serve On
+__3.Load Your Serve On__
 
-__4.and you are good to go
+__4.and you are good to go__
 
 
 
