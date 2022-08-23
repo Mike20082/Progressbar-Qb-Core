@@ -1,5 +1,9 @@
 # Progressbar-Qb-Core
-Hello!! Here Is My First Css Edited Progressbar ..This Progress Bar Is The Default Qb-Core Progressbar And You Have To Just Rename The File From Mike-progressbar-main To Just progressbar to just make it work properly... Have Fun   
+Hello!! Here Is My First Css Edited Progressbar ..
+
+
+
+This Progress Bar Is The Default Qb-Core Progressbar And You Have To Just Rename The File From Mike-progressbar-main To Just progressbar to just make it work properly... Have Fun   
 
 
 Thank You.......Credits- @https://github.com/qbcore-framework
@@ -12,22 +16,15 @@ Thank You.......Credits- @https://github.com/qbcore-framework
 
 
 
+_Steps To Follow_
 
+_1.Rename Mike-progressbar-main To progressbar_
 
+_2.load it in your resources>standalone or just replace it_
 
+_3.Load Your Serve On_
 
-
-
-__Steps To Follow__
-
-__1.Rename Mike-progressbar-main To progressbar__
-
-__2.load it in your resources>standalone or just replace it__
-
-__3.Load Your Serve On__
-
-__4.and you are good to go__
-
+_4.and you are good to go_
 
 
 
@@ -40,12 +37,6 @@ __4.and you are good to go__
 
 
 
-
-
-
-
-
-credits - https://github.com/qbcore-framework!
 
 **Some Showcase Pics OF Progressbar**
 
@@ -56,4 +47,9 @@ credits - https://github.com/qbcore-framework!
 ![Screenshot 2022-08-23 112853](https://user-images.githubusercontent.com/111684474/186083689-ea0a4806-468f-4730-991f-87529dead483.png)
 
 
+
+
+
+
+credits - https://github.com/qbcore-framework!
 
