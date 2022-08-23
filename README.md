@@ -3,7 +3,7 @@
 
 
 
-**This Progress Bar Is The Default Qb-Core Progressbar And You Have To Just Rename The File From Progressbar-Qb-Core-main To Just progressbar to just make it work properly... Have Fun**  
+**This Progress Bar Is The Default Qb-Core Progressbar And You Have To Just Rename The File From Mike-Progressbar-main To Just progressbar to just make it work properly... Have Fun**  
 
 
 Thank You.......Credits- @https://github.com/qbcore-framework
@@ -18,11 +18,13 @@ Thank You.......Credits- @https://github.com/qbcore-framework
 
 _Steps To Follow_
 
-_1.Rename Mike-progressbar-main To progressbar_
+_1.Open The Zip folder U downloaded
 
-_2.load it in your resources>standalone or just replace it_
+2.Extract It And Open The Inside Folder and Rename Mike-progressbar-main To progressbar_
 
-_3.Load Your Serve On_
+_2.load it in your resources>standalone folder or just replace it_
+
+_3.Load Your Server On_
 
 _4.and you are good to go_
 
