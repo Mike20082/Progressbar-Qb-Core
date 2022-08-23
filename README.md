@@ -28,4 +28,3 @@ credits - https://github.com/qbcore-framework!
 
 
 
-Credits- @qbcore-framework
